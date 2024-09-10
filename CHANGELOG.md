@@ -1,4 +1,10 @@
 <details>
+  <summary>1.1.1</summary>
+
+  - added missed mod - JereKuusela Server devcommands
+</details>
+
+<details>
   <summary>1.1.0</summary>
 
   - added configs for Player Inventory and Creature Lvl
