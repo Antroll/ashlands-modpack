@@ -1,6 +1,6 @@
 {
   "name": "Ashlands_Modpack",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/Antroll/ashlands-modpack",
   "description": "A modpack for Valheim that adds new content to the game.",
   "dependencies": [
@@ -23,6 +23,7 @@
     "GemHunter1-CustomChestName-1.1.1",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.8",
     "hyleanlegend-Rune_Magic-1.2.0",
+    "JereKuusela-Server_devcommands-1.82.0",
     "JereKuusela-Upgrade_World-1.60.0",
     "KGvalheim-MoreMapPins-1.0.0",
     "KGvalheim-SortCraft-1.1.0",
