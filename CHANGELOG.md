@@ -1,4 +1,15 @@
 <details>
+  <summary>1.4.0</summary>
+
+  - add
+    - [balrond humanoidRandomizer](https://thunderstore.io/c/valheim/p/Balrond/balrond_humanoidRandomizer/)
+    - [SearchableBuildMenu](https://thunderstore.io/c/valheim/p/Azumatt/SearchableBuildMenu/)
+    - [Better_Wisps](https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/)
+  - remove
+    - [RtDOcean](https://thunderstore.io/c/valheim/p/Soloredis/RtDOcean/)
+</details>
+
+<details>
   <summary>1.3.1</summary>
 
   - update dependencies
