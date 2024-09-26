@@ -1,10 +1,20 @@
 <details>
+  <summary>1.3.1</summary>
+
+  - update dependencies
+    - balrond_shipyard
+    - EpicJewels
+    - VNEI
+</details>
+
+<details>
   <summary>1.3.0</summary>
 
   - add [SearsCatalog](https://thunderstore.io/c/valheim/p/ComfyMods/SearsCatalog/)
   - add [OdinArchitect](https://thunderstore.io/c/valheim/p/OdinPlus/OdinArchitect/)
 </details>
 
+<details>
   <summary>1.2.0</summary>
 
   - add [Alpus-Transmog](https://thunderstore.io/c/valheim/p/Alpus/Transmog/)
