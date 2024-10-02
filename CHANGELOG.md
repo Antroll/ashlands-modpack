@@ -1,4 +1,20 @@
 <details>
+  <summary>1.5.0</summary>
+
+  - add
+    - [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/) - compass on the HUD wich is also adding pin for boats and portals
+    - [PortablePals](https://thunderstore.io/c/valheim/p/Meldurson/PortablePals/) - ability to store pets in a special stone
+
+  - remove
+    - SmoothSave - because of the issues related to the saving process. Probably it is not depends on the mod itself.
+
+  - update
+    - AAA_Crafting
+    - ConfigurationManager
+    - Server_devcommands
+</details>
+
+<details>
   <summary>1.4.0</summary>
 
   - add
