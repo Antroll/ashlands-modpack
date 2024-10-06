@@ -1,4 +1,20 @@
 <details>
+  <summary>1.6.0</summary>
+
+  - add
+    - [GammaOfNightLights](https://thunderstore.io/c/valheim/p/shudnal/GammaOfNightLights/)
+    - [HipLantern](https://thunderstore.io/c/valheim/p/shudnal/HipLantern/)
+    - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
+    - [Loyal Spears](https://thunderstore.io/c/valheim/p/Goldenrevolver/Loyal_Spears_Auto_Pickup_And_Return_To_Owner/)
+    - [Proper Spears](https://thunderstore.io/c/valheim/p/Goldenrevolver/Proper_Spears_Forward_Facing_With_Thrust_Attacks/)
+
+  - update
+    - Quick_Stack_Store_Sort_Trash_Restock
+    - Warfare
+    - Armory
+</details>
+
+<details>
   <summary>1.5.0</summary>
 
   - add
