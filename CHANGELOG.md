@@ -1,4 +1,11 @@
 <details>
+  <summary>1.6.1</summary>
+
+  - remove
+    - CircletExtended
+</details>
+
+<details>
   <summary>1.6.0</summary>
 
   - add
