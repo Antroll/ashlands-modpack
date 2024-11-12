@@ -1,8 +1,35 @@
 <details>
+  <summary>2.0.0</summary>
+
+  Bog Witch Update
+
+  Add:
+  - [Ranching](https://thunderstore.io/c/valheim/p/Smoothbrain/Ranching/)
+  - [Mining](https://thunderstore.io/c/valheim/p/Smoothbrain/Mining/)
+  - [Wizardry](https://thunderstore.io/c/valheim/p/Therzie/Wizardry/)
+  - [MistrootTamer](https://thunderstore.io/c/valheim/p/Azumatt/MistrootTamer/)
+  - [Venture_Farm_Grid](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Farm_Grid/)
+
+  Remove:
+  - [balrond_humanoidRandomizer](https://thunderstore.io/c/valheim/p/Balrond/balrond_humanoidRandomizer/)
+  - [balrond_shipyard](https://thunderstore.io/c/valheim/p/Balrond/balrond_shipyard/)
+  - [EpicBossFights](https://thunderstore.io/c/valheim/p/coemt/EpicBossFights/)
+  - [Better_Wisps](https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/) - do not work properly with the JewelryCrafting mod
+  - [SortCraft](https://thunderstore.io/c/valheim/p/KGvalheim/SortCraft/)
+  - [GammaOfNightLights](https://thunderstore.io/c/valheim/p/shudnal/GammaOfNightLights/)
+  - [VALKEA](https://thunderstore.io/c/valheim/p/The_Bees_Decree/VALKEA/)
+  - [BetterRiding](https://thunderstore.io/c/valheim/p/Yggdrah/BetterRiding/)
+  - [yggdrahsbetterhorse](https://thunderstore.io/c/valheim/p/Yggdrah/yggdrahsbetterhorse/)
+  - [ComfortTweaks](https://thunderstore.io/c/valheim/p/Smoothbrain/ComfortTweaks/) - do not work properly in Bog Witch Update
+  - [FarmGrid](https://thunderstore.io/c/valheim/p/SarcenNexusMods/FarmGrid/) - do not work properly in Bog Witch Update
+  - [UsefulPaths](https://thunderstore.io/c/valheim/p/RustyMods/UsefulPaths/)
+</details>
+
+<details>
   <summary>1.6.1</summary>
 
   - remove
-    - CircletExtended
+    - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
 </details>
 
 <details>
