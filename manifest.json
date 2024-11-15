@@ -1,6 +1,6 @@
 {
   "name": "Ashlands_Modpack",
-  "version_number": "2.0.0",
+  "version_number": "2.1.0",
   "website_url": "https://github.com/Antroll/ashlands-modpack",
   "description": "A modpack for Valheim that adds new content to the game.",
   "dependencies": [
@@ -14,6 +14,7 @@
     "Azumatt-FirstPersonMode-1.3.7",
     "Azumatt-ImFRIENDLY_DAMMIT-1.1.8",
     "Azumatt-MistrootTamer-1.0.3",
+    "Azumatt-PetPantry-1.0.2",
     "Azumatt-Recycle_N_Reclaim-1.3.5",
     "Azumatt-SaveCrossbowState-1.0.1",
     "Azumatt-SearchableBuildMenu-1.0.3",
@@ -23,6 +24,7 @@
     "ComfyMods-SearsCatalog-1.5.1",
     "denikson-BepInExPack_Valheim-5.4.2202",
     "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.26",
+    "Digitalroot-Better_Wisps-1.0.39",
     "GemHunter1-CustomChestName-1.1.1",
     "Goldenrevolver-Loyal_Spears_Auto_Pickup_And_Return_To_Owner-1.1.2",
     "Goldenrevolver-Proper_Spears_Forward_Facing_With_Thrust_Attacks-1.0.2",
@@ -40,6 +42,7 @@
     "Neobotics-HUDCompass-1.0.12",
     "OdinPlus-CrystalLights-1.1.2",
     "OdinPlus-OdinArchitect-1.3.3",
+    "SSMVC-Portalvator-1.1.0",
     "RustyMods-PortalStations-1.2.4",
     "shudnal-ConfigurationManager-1.0.20",
     "shudnal-Firefly-1.0.7",

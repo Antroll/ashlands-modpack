@@ -1,20 +1,29 @@
 <details>
+  <summary>2.1.0</summary>
+
+  #### Add:
+  - [PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/)
+  - [Better_Wisps](https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/) - return back, since we can disable the wisp behavior in
+    the JeverlyCrafting config
+  - [Portalvator](https://thunderstore.io/c/valheim/p/SSMVC/Portalvator/)
+</details>
+
+<details>
   <summary>2.0.0</summary>
 
   Bog Witch Update
 
-  Add:
+  #### Add:
   - [Ranching](https://thunderstore.io/c/valheim/p/Smoothbrain/Ranching/)
   - [Mining](https://thunderstore.io/c/valheim/p/Smoothbrain/Mining/)
   - [Wizardry](https://thunderstore.io/c/valheim/p/Therzie/Wizardry/)
   - [MistrootTamer](https://thunderstore.io/c/valheim/p/Azumatt/MistrootTamer/)
   - [Venture_Farm_Grid](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Farm_Grid/)
 
-  Remove:
+  #### Remove:
   - [balrond_humanoidRandomizer](https://thunderstore.io/c/valheim/p/Balrond/balrond_humanoidRandomizer/)
   - [balrond_shipyard](https://thunderstore.io/c/valheim/p/Balrond/balrond_shipyard/)
   - [EpicBossFights](https://thunderstore.io/c/valheim/p/coemt/EpicBossFights/)
-  - [Better_Wisps](https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/) - do not work properly with the JewelryCrafting mod
   - [SortCraft](https://thunderstore.io/c/valheim/p/KGvalheim/SortCraft/)
   - [GammaOfNightLights](https://thunderstore.io/c/valheim/p/shudnal/GammaOfNightLights/)
   - [VALKEA](https://thunderstore.io/c/valheim/p/The_Bees_Decree/VALKEA/)
@@ -28,51 +37,52 @@
 <details>
   <summary>1.6.1</summary>
 
-  - remove
-    - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
+  #### Remove
+  - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
 </details>
 
 <details>
   <summary>1.6.0</summary>
 
-  - add
-    - [GammaOfNightLights](https://thunderstore.io/c/valheim/p/shudnal/GammaOfNightLights/)
-    - [HipLantern](https://thunderstore.io/c/valheim/p/shudnal/HipLantern/)
-    - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
-    - [Loyal Spears](https://thunderstore.io/c/valheim/p/Goldenrevolver/Loyal_Spears_Auto_Pickup_And_Return_To_Owner/)
-    - [Proper Spears](https://thunderstore.io/c/valheim/p/Goldenrevolver/Proper_Spears_Forward_Facing_With_Thrust_Attacks/)
+  #### Add:
+  - [GammaOfNightLights](https://thunderstore.io/c/valheim/p/shudnal/GammaOfNightLights/)
+  - [HipLantern](https://thunderstore.io/c/valheim/p/shudnal/HipLantern/)
+  - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
+  - [Loyal Spears](https://thunderstore.io/c/valheim/p/Goldenrevolver/Loyal_Spears_Auto_Pickup_And_Return_To_Owner/)
+  - [Proper Spears](https://thunderstore.io/c/valheim/p/Goldenrevolver/Proper_Spears_Forward_Facing_With_Thrust_Attacks/)
 
-  - update
-    - Quick_Stack_Store_Sort_Trash_Restock
-    - Warfare
-    - Armory
+  #### update
+  - Quick_Stack_Store_Sort_Trash_Restock
+  - Warfare
+  - Armory
 </details>
 
 <details>
   <summary>1.5.0</summary>
 
-  - add
-    - [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/) - compass on the HUD wich is also adding pin for boats and portals
-    - [PortablePals](https://thunderstore.io/c/valheim/p/Meldurson/PortablePals/) - ability to store pets in a special stone
+  #### Add:
+  - [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/) - compass on the HUD wich is also adding pin for boats and portals
+  - [PortablePals](https://thunderstore.io/c/valheim/p/Meldurson/PortablePals/) - ability to store pets in a special stone
 
-  - remove
-    - SmoothSave - because of the issues related to the saving process. Probably it is not depends on the mod itself.
+  #### Remove
+  - SmoothSave - because of the issues related to the saving process. Probably it is not depends on the mod itself.
 
-  - update
-    - AAA_Crafting
-    - ConfigurationManager
-    - Server_devcommands
+  #### update
+  - AAA_Crafting
+  - ConfigurationManager
+  - Server_devcommands
 </details>
 
 <details>
   <summary>1.4.0</summary>
 
-  - add
-    - [balrond humanoidRandomizer](https://thunderstore.io/c/valheim/p/Balrond/balrond_humanoidRandomizer/)
-    - [SearchableBuildMenu](https://thunderstore.io/c/valheim/p/Azumatt/SearchableBuildMenu/)
-    - [Better_Wisps](https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/)
-  - remove
-    - [RtDOcean](https://thunderstore.io/c/valheim/p/Soloredis/RtDOcean/)
+  #### Add:
+  - [balrond humanoidRandomizer](https://thunderstore.io/c/valheim/p/Balrond/balrond_humanoidRandomizer/)
+  - [SearchableBuildMenu](https://thunderstore.io/c/valheim/p/Azumatt/SearchableBuildMenu/)
+  - [Better_Wisps](https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/)
+
+  #### Remove
+  - [RtDOcean](https://thunderstore.io/c/valheim/p/Soloredis/RtDOcean/)
 </details>
 
 <details>
