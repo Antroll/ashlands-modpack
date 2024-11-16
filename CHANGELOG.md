@@ -1,4 +1,14 @@
 <details>
+  <summary>2.1.1</summary>
+
+  #### Remove:
+  - MistrootTamer
+
+  #### Update:
+  - HipLantern
+</details>
+
+<details>
   <summary>2.1.0</summary>
 
   #### Add:

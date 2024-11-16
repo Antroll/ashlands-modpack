@@ -1,6 +1,6 @@
 {
   "name": "Ashlands_Modpack",
-  "version_number": "2.1.0",
+  "version_number": "2.1.1",
   "website_url": "https://github.com/Antroll/ashlands-modpack",
   "description": "A modpack for Valheim that adds new content to the game.",
   "dependencies": [
@@ -13,7 +13,6 @@
     "Azumatt-BowsBeforeHoes-1.3.10",
     "Azumatt-FirstPersonMode-1.3.7",
     "Azumatt-ImFRIENDLY_DAMMIT-1.1.8",
-    "Azumatt-MistrootTamer-1.0.3",
     "Azumatt-PetPantry-1.0.2",
     "Azumatt-Recycle_N_Reclaim-1.3.5",
     "Azumatt-SaveCrossbowState-1.0.1",
@@ -46,7 +45,7 @@
     "RustyMods-PortalStations-1.2.4",
     "shudnal-ConfigurationManager-1.0.20",
     "shudnal-Firefly-1.0.7",
-    "shudnal-HipLantern-1.0.7",
+    "shudnal-HipLantern-1.0.15",
     "Smoothbrain-Afterdeath-1.0.6",
     "Smoothbrain-Backpacks-1.3.5",
     "Smoothbrain-CreatureLevelAndLootControl-4.6.2",
