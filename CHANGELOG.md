@@ -1,4 +1,15 @@
 <details>
+  <summary>2.2.0</summary>
+
+  #### Add:
+  - [ReliableBlock](https://thunderstore.io/c/valheim/p/Korppis/ReliableBlock/)
+
+  #### Update:
+  - Soulcatcher_JC_KG_Additions
+  - configs
+</details>
+
+<details>
   <summary>2.1.1</summary>
 
   #### Remove:

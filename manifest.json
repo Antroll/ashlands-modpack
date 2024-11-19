@@ -1,6 +1,6 @@
 {
   "name": "Ashlands_Modpack",
-  "version_number": "2.1.1",
+  "version_number": "2.2.0",
   "website_url": "https://github.com/Antroll/ashlands-modpack",
   "description": "A modpack for Valheim that adds new content to the game.",
   "dependencies": [
@@ -32,8 +32,9 @@
     "JereKuusela-Server_devcommands-1.85.0",
     "JereKuusela-Upgrade_World-1.62.0",
     "KGvalheim-MoreMapPins-1.0.0",
-    "KGvalheim-Soulcatcher_JC_KG_Additions-4.5.7",
+    "KGvalheim-Soulcatcher_JC_KG_Additions-4.5.8",
     "KGvalheim-Valheim_Enchantment_System-1.7.2",
+    "Korppis-ReliableBlock-1.0.0",
     "Meldurson-PortablePals-0.0.5",
     "MidnightMods-EpicJewels-0.9.5",
     "MSchmoecker-MultiUserChest-0.5.10",
