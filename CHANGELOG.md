@@ -1,4 +1,17 @@
 <details>
+  <summary>2.3.0</summary>
+
+  #### Add:
+  - [PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/)
+
+  #### Remove:
+  - VentureValheim-Venture_Farm_Grid (replaced by PlantEasily)
+
+  #### Update:
+  - different mods
+</details>
+
+<details>
   <summary>2.2.0</summary>
 
   #### Add:
