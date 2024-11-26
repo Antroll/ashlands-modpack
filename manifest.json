@@ -1,6 +1,6 @@
 {
   "name": "Ashlands_Modpack",
-  "version_number": "2.3.0",
+  "version_number": "2.4.0",
   "website_url": "https://github.com/Antroll/ashlands-modpack",
   "description": "A modpack for Valheim that adds new content to the game.",
   "dependencies": [
@@ -70,11 +70,11 @@
     "ValheimModding-Jotunn-2.21.3",
     "warpalicious-Altars_of_Creation-1.0.2",
     "warpalicious-Blackforest_Pack_1-1.0.3",
+    "warpalicious-Blackforest_Pack_2-1.0.0",
     "warpalicious-Meadows_Pack_1-1.0.4",
     "warpalicious-Mistlands_Pack_1-1.0.2",
     "warpalicious-Mountains_Pack_1-1.0.1",
     "warpalicious-Plains_Pack_1-1.0.2",
-    "warpalicious-Swamp_Pack_1-1.0.4",
-    "VentureValheim-Venture_Farm_Grid-0.1.2"
+    "warpalicious-Swamp_Pack_1-1.0.4"
   ]
 }
