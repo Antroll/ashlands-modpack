@@ -1,4 +1,27 @@
 <details>
+  <summary>2.5.0</summary>
+
+  #### Add:
+  - [RockTheBoat](https://thunderstore.io/c/valheim/p/shudnal/RockTheBoat/) (experimental)
+  - [TradersExtended](https://thunderstore.io/c/valheim/p/shudnal/TradersExtended/) (experimental)
+
+  #### Update:
+  - VikingsDoSwim
+  - Meadows_Pack_1
+  - Mistlands_Pack_1
+
+  #### Config edits:
+  - backpacks
+    - ui: backpack visual is hidden
+  - CLLC
+    - nerf: maximum stars for all creatures - 3 (was 5)
+    - nerf: Health gained per star for creatures in percentage - 30% (was 100%)
+    - nerf: Damage gained per star for creatures in percentage - 15% (was 50%)
+  - Resurrection
+    - buff: no resurrection Cost
+</details>
+
+<details>
   <summary>2.4.0</summary>
 
   #### Add:
@@ -6,9 +29,6 @@
 
   #### Remove:
   - VentureValheim-Venture_Farm_Grid (replaced by PlantEasily)
-
-  #### Update:
-  - different mods
 </details>
 
 <details>
