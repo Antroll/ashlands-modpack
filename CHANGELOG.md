@@ -1,4 +1,21 @@
 <details>
+  <summary>2.6.0</summary>
+
+  #### Update:
+  - PlantEasily
+  - HipLantern
+
+  #### Config edits:
+  - CLLC
+    - buff: health gained per star for creatures in percentage - 50% (was 30%)
+  - RockTheBoat
+    - buff: empty ship damage multiplier - 0.2 (was 1)
+    - buff: remove ship with hammer
+  - PlantEasily config removed
+</details>
+
+
+<details>
   <summary>2.5.0</summary>
 
   #### Add:
