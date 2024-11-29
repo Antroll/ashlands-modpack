@@ -1,6 +1,6 @@
 {
   "name": "Ashlands_Modpack",
-  "version_number": "2.6.0",
+  "version_number": "2.7.0",
   "website_url": "https://github.com/Antroll/ashlands-modpack",
   "description": "A modpack for Valheim that adds new content to the game.",
   "dependencies": [
@@ -46,10 +46,12 @@
     "SSMVC-Portalvator-1.1.0",
     "RustyMods-PortalStations-1.2.4",
     "shudnal-ConfigurationManager-1.0.20",
+    "shudnal-CircletExtended-1.0.19",
     "shudnal-Firefly-1.0.7",
     "shudnal-HipLantern-1.0.17",
     "shudnal-RockTheBoat-1.0.7",
-    "shudnal-TradersExtended-1.3.7",
+    "shudnal-Seasons-1.4.1",
+    "shudnal-TradersExtended-1.3.8",
     "Smoothbrain-Afterdeath-1.0.6",
     "Smoothbrain-Backpacks-1.3.5",
     "Smoothbrain-CreatureLevelAndLootControl-4.6.2",

@@ -1,4 +1,16 @@
 <details>
+  <summary>2.7.0</summary>
+
+  #### Add:
+  - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
+  - [Seasons](https://thunderstore.io/c/valheim/p/shudnal/Seasons/)
+
+  #### Update:
+  - TradersExtended
+
+</details>
+
+<details>
   <summary>2.6.0</summary>
 
   #### Update:
