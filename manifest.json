@@ -1,10 +1,10 @@
 {
   "name": "Ashlands_Modpack",
-  "version_number": "2.7.0",
+  "version_number": "2.8.0",
   "website_url": "https://github.com/Antroll/ashlands-modpack",
   "description": "A modpack for Valheim that adds new content to the game.",
   "dependencies": [
-    "Advize-PlantEasily-2.0.1",
+    "Advize-PlantEasily-2.0.2",
     "Advize-PlantEverything-1.18.2",
     "Alpus-Transmog-2.0.2",
     "Azumatt-AAA_Crafting-1.6.3",
@@ -50,7 +50,7 @@
     "shudnal-Firefly-1.0.7",
     "shudnal-HipLantern-1.0.17",
     "shudnal-RockTheBoat-1.0.7",
-    "shudnal-Seasons-1.4.1",
+    "shudnal-Seasons-1.4.2",
     "shudnal-TradersExtended-1.3.8",
     "Smoothbrain-Afterdeath-1.0.6",
     "Smoothbrain-Backpacks-1.3.5",
@@ -76,7 +76,7 @@
     "warpalicious-Blackforest_Pack_1-1.0.3",
     "warpalicious-Blackforest_Pack_2-1.0.0",
     "warpalicious-Meadows_Pack_1-1.0.5",
-    "warpalicious-Mistlands_Pack_1-1.0.3",
+    "warpalicious-Mistlands_Pack_1-1.0.4",
     "warpalicious-Mountains_Pack_1-1.0.1",
     "warpalicious-Plains_Pack_1-1.0.2",
     "warpalicious-Swamp_Pack_1-1.0.4"

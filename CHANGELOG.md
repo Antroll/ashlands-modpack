@@ -1,30 +1,39 @@
-<details>
-  <summary>2.7.0</summary>
+## 2.8.0
+---
 
-  #### Add:
-  - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
-  - [Seasons](https://thunderstore.io/c/valheim/p/shudnal/Seasons/)
+#### Add:
+- configs for TradersExtended (I wrote it manually. Prices now in testing)
+- config for passive powers
 
-  #### Update:
-  - TradersExtended
+#### Update:
+- PlantEasily
+- Seasons
+- Mistlands_Pack_1
 
-</details>
+## 2.7.0
+---
 
-<details>
-  <summary>2.6.0</summary>
+#### Add:
+- [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
+- [Seasons](https://thunderstore.io/c/valheim/p/shudnal/Seasons/)
 
-  #### Update:
-  - PlantEasily
-  - HipLantern
+#### Update:
+- TradersExtended
 
-  #### Config edits:
-  - CLLC
-    - buff: health gained per star for creatures in percentage - 50% (was 30%)
-  - RockTheBoat
-    - buff: empty ship damage multiplier - 0.2 (was 1)
-    - buff: remove ship with hammer
-  - PlantEasily config removed
-</details>
+## 2.6.0
+---
+
+#### Update:
+- PlantEasily
+- HipLantern
+
+#### Config edits:
+- CLLC
+  - buff: health gained per star for creatures in percentage - 50% (was 30%)
+- RockTheBoat
+  - buff: empty ship damage multiplier - 0.2 (was 1)
+  - buff: remove ship with hammer
+- PlantEasily config removed
 
 
 <details>

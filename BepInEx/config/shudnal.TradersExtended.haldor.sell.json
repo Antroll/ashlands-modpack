@@ -1,0 +1,303 @@
+[
+  {
+    "prefab": "QueenBee",
+    "stack": 1,
+    "price": 90
+  },
+  {
+    "prefab": "LeatherScraps",
+    "stack": 1,
+    "price": 1
+  },
+  {
+    "prefab": "DeerHide",
+    "stack": 1,
+    "price": 1
+  },
+  {
+    "prefab": "NeckTail",
+    "stack": 1,
+    "price": 1
+  },
+  {
+    "prefab": "TrophyBoar",
+    "stack": 1,
+    "price": 16
+  },
+  {
+    "prefab": "TrophyNeck",
+    "stack": 1,
+    "price": 17
+  },
+  {
+    "prefab": "TrophyDeer",
+    "stack": 1,
+    "price": 24
+  },
+  {
+    "prefab": "TrophyEikthyr",
+    "stack": 1,
+    "price": 41
+  },
+  {
+    "prefab": "HardAntler",
+    "stack": 1,
+    "price": 12
+  },
+  {
+    "prefab": "SurtlingCore",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 22
+  },
+  {
+    "prefab": "TinOre",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 1
+  },
+  {
+    "prefab": "CopperOre",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 4
+  },
+  {
+    "prefab": "TrophyGreydwarf",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 16
+  },
+  {
+    "prefab": "TrophyGreydwarfBrute",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 32
+  },
+  {
+    "prefab": "TrophyGreydwarfShaman",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 24
+  },
+  {
+    "prefab": "TrophyForestTroll",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 41
+  },
+  {
+    "prefab": "TrophySkeleton",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 14
+  },
+  {
+    "prefab": "TrophySkeletonPoison",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 54
+  },
+  {
+    "prefab": "TrophyTheElder",
+    "stack": 1,
+    "price": 34
+  },
+  {
+    "prefab": "Chitin",
+    "stack": 1,
+    "price": 13
+  },
+  {
+    "prefab": "TrophySerpent",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 173
+  },
+  {
+    "prefab": "IronScrap",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 10
+  },
+  {
+    "prefab": "TrophyBlob",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 49
+  },
+  {
+    "prefab": "TrophyDraugr",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 65
+  },
+  {
+    "prefab": "TrophyDraugrElite",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 95
+  },
+  {
+    "prefab": "TrophyLeech",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 49
+  },
+  {
+    "prefab": "TrophySurtling",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 115
+  },
+  {
+    "prefab": "TrophyWraith",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 81
+  },
+  {
+    "prefab": "TrophyAbomination",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 144
+  },
+  {
+    "prefab": "TrophyBonemass",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 68
+  },
+  {
+    "prefab": "SilverOre",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 12
+  },
+  {
+    "prefab": "DragonEgg",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 203
+  },
+  {
+    "prefab": "TrophyWolf",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 90
+  },
+  {
+    "prefab": "TrophyHatchling",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 99
+  },
+  {
+    "prefab": "TrophySGolem",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 189
+  },
+  {
+    "prefab": "TrophyFenring",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 147
+  },
+  {
+    "prefab": "TrophyUlv",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 90
+  },
+  {
+    "prefab": "TrophyCultist",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 240
+  },
+  {
+    "prefab": "TrophyGoblin",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 135
+  },
+  {
+    "prefab": "TrophyGoblinBrute",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 227
+  },
+  {
+    "prefab": "TrophyGoblinShaman",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 212
+  },
+  {
+    "prefab": "TrophyLox",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 216
+  },
+  {
+    "prefab": "TrophyDeathsquito",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 130
+  },
+  {
+    "prefab": "TrophyGrowth",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 189
+  },
+  {
+    "prefab": "TrophyGoblinKing",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_goblinking",
+    "price": 122
+  },
+  {
+    "prefab": "BlackCore",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_queen",
+    "price": 151
+  },
+  {
+    "prefab": "DvergrKeyFragment",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_queen",
+    "price": 336
+  },
+  {
+    "prefab": "TrophyHare",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_goblinking",
+    "price": 176
+  },
+  {
+    "prefab": "TrophyTick",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_goblinking",
+    "price": 126
+  },
+  {
+    "prefab": "TrophySeeker",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_goblinking",
+    "price": 158
+  },
+  {
+    "prefab": "TrophySeekerBrute",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_goblinking",
+    "price": 265
+  },
+  {
+    "prefab": "TrophySeekerQueen",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_queen",
+    "price": 236
+  }
+]
