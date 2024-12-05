@@ -2,606 +2,600 @@
   {
     "prefab": "Wood",
     "stack": 50,
-    "price": 33
+    "price": 39
   },
   {
     "prefab": "FineWood",
     "stack": 25,
-    "price": 49
+    "price": 59
   },
   {
     "prefab": "Stone",
     "stack": 50,
-    "price": 33
+    "price": 39
   },
   {
     "prefab": "Flint",
     "stack": 30,
-    "price": 30
+    "price": 36
   },
   {
     "prefab": "Resin",
     "stack": 25,
-    "price": 30
+    "price": 36
   },
   {
     "prefab": "Dandelion",
     "stack": 10,
-    "price": 24
+    "price": 29
   },
   {
     "prefab": "QueenBee",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 300
+    "price": 360
   },
   {
     "prefab": "Coal",
     "stack": 25,
-    "price": 60
+    "price": 72
   },
   {
     "prefab": "Mushroom",
     "stack": 5,
-    "price": 53
+    "price": 63
   },
   {
     "prefab": "Raspberry",
     "stack": 5,
-    "price": 48
+    "price": 58
   },
   {
     "prefab": "Honey",
     "stack": 10,
-    "price": 96
+    "price": 115
   },
   {
     "prefab": "LeatherScraps",
     "stack": 10,
-    "price": 24
+    "price": 29
   },
   {
     "prefab": "Feathers",
     "stack": 10,
-    "price": 20
+    "price": 23
   },
   {
     "prefab": "DeerHide",
     "stack": 10,
-    "price": 36
+    "price": 43
   },
   {
     "prefab": "NeckTail",
     "stack": 10,
-    "price": 27
+    "price": 32
   },
   {
     "prefab": "TrophyBoar",
     "stack": 1,
-    "price": 54
+    "price": 65
   },
   {
     "prefab": "TrophyNeck",
     "stack": 1,
-    "price": 57
+    "price": 68
   },
   {
     "prefab": "TrophyDeer",
     "stack": 1,
-    "price": 81
+    "price": 97
   },
   {
     "prefab": "DeerMeat",
     "stack": 10,
-    "price": 45
+    "price": 54
   },
   {
     "prefab": "RawMeat",
     "stack": 20,
-    "price": 40
+    "price": 48
   },
   {
     "prefab": "Thistle",
     "stack": 10,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 72
+    "price": 86
   },
   {
     "prefab": "SurtlingCore",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 72
+    "price": 86
   },
   {
     "prefab": "TinOre",
     "stack": 10,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 40
+    "price": 48
   },
   {
     "prefab": "CopperOre",
     "stack": 10,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 120
+    "price": 144
   },
   {
     "prefab": "Blueberries",
     "stack": 5,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 72
+    "price": 86
   },
   {
     "prefab": "MushroomYellow",
     "stack": 5,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 81
+    "price": 97
   },
   {
     "prefab": "Carrot",
     "stack": 5,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 216
+    "price": 259
   },
   {
     "prefab": "TrollHide",
     "stack": 5,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 150
+    "price": 180
   },
   {
     "prefab": "BoneFragments",
     "stack": 25,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 68
+    "price": 81
   },
   {
     "prefab": "TrophySkeleton",
     "stack": 1,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 45
+    "price": 54
   },
   {
     "prefab": "TrophySkeletonPoison",
     "stack": 1,
     "requiredGlobalKey": "defeated_eikthyr",
-    "price": 180
+    "price": 216
   },
   {
     "prefab": "Chitin",
     "stack": 5,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 216
+    "price": 259
   },
   {
     "prefab": "SerpentMeat",
     "stack": 5,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 288
+    "price": 346
   },
   {
     "prefab": "SerpentScale",
     "stack": 10,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 480
+    "price": 576
   },
   {
     "prefab": "TrophySerpent",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 576
+    "price": 691
   },
   {
     "prefab": "Guck",
     "stack": 5,
-    "requiredGlobalKey": "defeated_gdking",
-    "price": 144
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 173
   },
   {
     "prefab": "ElderBark",
     "stack": 25,
-    "requiredGlobalKey": "defeated_gdking",
-    "price": 65
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 78
   },
   {
     "prefab": "WitheredBone",
     "stack": 10,
-    "requiredGlobalKey": "defeated_gdking",
-    "price": 240
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 288
   },
   {
     "prefab": "IronScrap",
     "stack": 10,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 320
+    "price": 384
   },
   {
     "prefab": "Turnip",
     "stack": 5,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 288
+    "price": 346
   },
   {
     "prefab": "Ooze",
     "stack": 10,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 72
+    "price": 86
   },
   {
     "prefab": "TrophyBlob",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 162
+    "price": 194
   },
   {
     "prefab": "Entrails",
     "stack": 10,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 33
+    "price": 39
   },
   {
     "prefab": "TrophyDraugr",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 216
+    "price": 259
   },
   {
     "prefab": "TrophyDraugrElite",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 317
+    "price": 380
   },
   {
     "prefab": "Bloodbag",
     "stack": 10,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 60
+    "price": 72
   },
   {
     "prefab": "TrophyLeech",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 162
+    "price": 194
   },
   {
     "prefab": "TrophySurtling",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 384
+    "price": 461
   },
   {
     "prefab": "Chain",
     "stack": 1,
-    "requiredGlobalKey": "defeated_gdking",
-    "price": 108
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 130
   },
   {
     "prefab": "TrophyWraith",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 270
+    "price": 324
   },
   {
     "prefab": "Root",
     "stack": 5,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 192
+    "price": 230
   },
   {
     "prefab": "TrophyAbomination",
     "stack": 1,
     "requiredGlobalKey": "defeated_gdking",
-    "price": 480
+    "price": 576
   },
   {
     "prefab": "Obsidian",
     "stack": 25,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 150
+    "price": 180
   },
   {
     "prefab": "SilverOre",
     "stack": 10,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 400
+    "price": 480
   },
   {
     "prefab": "DragonEgg",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 675
+    "price": 810
   },
   {
     "prefab": "Crystal",
     "stack": 10,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 270
+    "price": 324
   },
   {
     "prefab": "Onion",
     "stack": 5,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 540
+    "price": 648
   },
   {
     "prefab": "WolfMeat",
     "stack": 10,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 100
+    "price": 120
   },
   {
     "prefab": "WolfFang",
     "stack": 10,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 120
+    "price": 144
   },
   {
     "prefab": "WolfPelt",
     "stack": 10,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 60
+    "price": 72
   },
   {
     "prefab": "TrophyWolf",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 300
+    "price": 360
   },
   {
     "prefab": "FreezeGland",
     "stack": 10,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 220
+    "price": 264
   },
   {
     "prefab": "TrophyHatchling",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 330
+    "price": 396
   },
   {
     "prefab": "TrophySGolem",
     "stack": 1,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 630
+    "price": 756
   },
   {
     "prefab": "TrophyFenring",
     "stack": 1,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 490
+    "price": 588
   },
   {
     "prefab": "TrophyUlv",
     "stack": 1,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 300
+    "price": 360
   },
   {
     "prefab": "JuteRed",
     "stack": 5,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 450
+    "price": 540
   },
   {
     "prefab": "TrophyCultist",
     "stack": 1,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 800
+    "price": 960
   },
   {
     "prefab": "WolfHairBundle",
     "stack": 5,
     "requiredGlobalKey": "defeated_bonemass",
-    "price": 375
+    "price": 450
   },
   {
     "prefab": "WolfClaw",
     "stack": 5,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 400
+    "price": 480
   },
   {
     "prefab": "Tar",
     "stack": 25,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 540
+    "price": 648
   },
   {
     "prefab": "GoblinTotem",
     "stack": 1,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 810
+    "price": 972
   },
   {
     "prefab": "Flax",
     "stack": 5,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 300
+    "price": 360
   },
   {
     "prefab": "Barley",
     "stack": 5,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 300
+    "price": 360
   },
   {
     "prefab": "Cloudberry",
     "stack": 25,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 90
+    "price": 108
   },
   {
     "prefab": "TrophyGoblin",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 450
+    "price": 540
   },
   {
     "prefab": "TrophyGoblinBrute",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 756
+    "price": 907
   },
   {
     "prefab": "TrophyGoblinShaman",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 706
+    "price": 847
   },
   {
     "prefab": "LoxMeat",
     "stack": 5,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 90
+    "price": 108
   },
   {
     "prefab": "LoxPelt",
     "stack": 10,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 324
+    "price": 389
   },
   {
     "prefab": "TrophyLox",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 720
+    "price": 864
   },
   {
     "prefab": "Needle",
     "stack": 25,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 180
+    "price": 216
   },
   {
     "prefab": "TrophyDeathsquito",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 432
+    "price": 518
   },
   {
     "prefab": "TrophyGrowth",
     "stack": 1,
     "requiredGlobalKey": "defeated_dragon",
-    "price": 630
+    "price": 756
   },
   {
     "prefab": "YggdrasilWood",
     "stack": 25,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 142
+    "price": 171
   },
   {
     "prefab": "BlackMarble",
     "stack": 50,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 313
+    "price": 375
   },
   {
     "prefab": "JuteBlue",
     "stack": 15,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 630
+    "price": 756
   },
   {
     "prefab": "Softtissue",
     "stack": 20,
     "requiredGlobalKey": "defeated_queen",
-    "price": 1890
+    "price": 2268
   },
   {
     "prefab": "BlackCore",
     "stack": 1,
     "requiredGlobalKey": "defeated_queen",
-    "price": 504
+    "price": 605
   },
   {
     "prefab": "DvergrKeyFragment",
     "stack": 1,
     "requiredGlobalKey": "defeated_queen",
-    "price": 1120
+    "price": 1344
   },
   {
     "prefab": "MushroomJotunpuffs",
     "stack": 10,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 202
+    "price": 242
   },
   {
     "prefab": "MushroomMagecap",
     "stack": 10,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 202
+    "price": 242
   },
   {
     "prefab": "RoyalJelly",
     "stack": 10,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 252
+    "price": 302
   },
   {
     "prefab": "HareMeat",
     "stack": 5,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 105
+    "price": 126
   },
   {
     "prefab": "ScaleHide",
     "stack": 25,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 210
+    "price": 252
   },
   {
     "prefab": "TrophyHare",
     "stack": 1,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 588
+    "price": 706
   },
   {
     "prefab": "GiantBloodSack",
     "stack": 25,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 263
+    "price": 315
   },
   {
     "prefab": "TrophyTick",
     "stack": 1,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 420
+    "price": 504
   },
   {
     "prefab": "BugMeat",
     "stack": 5,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 66
+    "price": 79
   },
   {
     "prefab": "Carapace",
     "stack": 10,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 140
+    "price": 168
   },
   {
     "prefab": "TrophySeeker",
     "stack": 1,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 525
+    "price": 630
   },
   {
     "prefab": "Mandible",
     "stack": 5,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 756
-  },
-  {
-    "prefab": "Mandible",
-    "stack": 5,
-    "requiredGlobalKey": "defeated_goblinking",
-    "price": 756
+    "price": 907
   },
   {
     "prefab": "TrophySeekerBrute",
     "stack": 1,
     "requiredGlobalKey": "defeated_goblinking",
-    "price": 882
+    "price": 1058
   }
 ]

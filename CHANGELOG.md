@@ -1,5 +1,19 @@
+## 2.9.0
+
+#### Remove:
+- Seasons (I've encountered game crashes with this mod)
+
+#### Update:
+- AzuAutoStore
+- Meadows_Pack_1
+
+#### Config edits:
+- TradersExtended prices
+  - decreased prices to sell items
+  - increased prices to buy items
+- CLLC: added chanses to get stars for bosses
+
 ## 2.8.0
----
 
 #### Add:
 - configs for TradersExtended (I wrote it manually. Prices now in testing)
@@ -11,7 +25,6 @@
 - Mistlands_Pack_1
 
 ## 2.7.0
----
 
 #### Add:
 - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
@@ -20,21 +33,22 @@
 #### Update:
 - TradersExtended
 
-## 2.6.0
----
 
-#### Update:
-- PlantEasily
-- HipLantern
+<details>
+  <summary>2.6.0</summary>
 
-#### Config edits:
-- CLLC
-  - buff: health gained per star for creatures in percentage - 50% (was 30%)
-- RockTheBoat
-  - buff: empty ship damage multiplier - 0.2 (was 1)
-  - buff: remove ship with hammer
-- PlantEasily config removed
+  #### Update:
+  - PlantEasily
+  - HipLantern
 
+  #### Config edits:
+  - CLLC
+    - buff: health gained per star for creatures in percentage - 50% (was 30%)
+  - RockTheBoat
+    - buff: empty ship damage multiplier - 0.2 (was 1)
+    - buff: remove ship with hammer
+  - PlantEasily config removed
+</details>
 
 <details>
   <summary>2.5.0</summary>
