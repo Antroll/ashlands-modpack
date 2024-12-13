@@ -1,3 +1,29 @@
+## 2.10.0
+
+#### Add:
+- [CurrencyPocket](https://thunderstore.io/c/valheim/p/Azumatt/CurrencyPocket/)
+
+#### Remove:
+- Quick_Stack_Store_Sort_Trash_Restock (CurrencyPocket pocket is not compatible with this mod)
+
+#### Update:
+- AzuAutoStore
+- AzuCraftyBoxes
+- SearchableBuildMenu
+- CrystalLights
+- PortalStations
+- Jotunn
+- Mistlands_Pack_1
+- Plains_Pack_1
+
+#### Config edits:
+- PortalStations: allow teleport metals after defeating the biom boss
+- TradersExtended:
+  - added ability to sell trophies from Therzie mods
+  - decreaset price deviation
+- HipLantern: increased refuel cost from 1 to 3 resin
+- RockTheBoat: increase max view distance on boat
+
 ## 2.9.0
 
 #### Remove:
@@ -24,15 +50,16 @@
 - Seasons
 - Mistlands_Pack_1
 
-## 2.7.0
+<details>
+  <summary>2.7.0</summary>
 
-#### Add:
-- [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
-- [Seasons](https://thunderstore.io/c/valheim/p/shudnal/Seasons/)
+  #### Add:
+  - [CircletExtended](https://thunderstore.io/c/valheim/p/shudnal/CircletExtended/)
+  - [Seasons](https://thunderstore.io/c/valheim/p/shudnal/Seasons/)
 
-#### Update:
-- TradersExtended
-
+  #### Update:
+  - TradersExtended
+</details>
 
 <details>
   <summary>2.6.0</summary>

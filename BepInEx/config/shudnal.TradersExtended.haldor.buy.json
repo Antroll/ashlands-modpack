@@ -143,6 +143,12 @@
     "price": 259
   },
   {
+    "prefab": "TrophyFrostTroll",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 162
+  },
+  {
     "prefab": "TrollHide",
     "stack": 5,
     "requiredGlobalKey": "defeated_eikthyr",
@@ -597,5 +603,65 @@
     "stack": 1,
     "requiredGlobalKey": "defeated_goblinking",
     "price": 1058
+  },
+  {
+    "prefab": "TrophyFox_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 65
+  },
+  {
+    "prefab": "TrophySheep_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_eikthyr",
+    "price": 43
+  },
+  {
+    "prefab": "TrophyRazorback_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 97
+  },
+  {
+    "prefab": "TrophyBlackBear_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_gdking",
+    "price": 126
+  },
+  {
+    "prefab": "TrophyCrawler_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 259
+  },
+  {
+    "prefab": "TrophyRottingElk_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_bonemass",
+    "price": 156
+  },
+  {
+    "prefab": "TrophyGrizzlyBear_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 432
+  },
+  {
+    "prefab": "TrophyObsidianGolem_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_dragon",
+    "price": 648
+  },
+  {
+    "prefab": "TrophyProwler_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_goblinking",
+    "price": 570
+  },
+  {
+    "prefab": "TrophyShark_TW",
+    "stack": 1,
+    "requiredGlobalKey": "defeated_goblinking",
+    "price": 864
   }
 ]
