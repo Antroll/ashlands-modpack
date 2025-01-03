@@ -1,3 +1,7 @@
+## 2.11.0
+
+[Changes](https://github.com/Antroll/ashlands-modpack/compare/v2.10.0...v2.11.0)
+
 ## 2.10.0
 
 #### Add:
@@ -39,16 +43,18 @@
   - increased prices to buy items
 - CLLC: added chanses to get stars for bosses
 
-## 2.8.0
+<details>
+  <summary>2.8.0</summary>
 
-#### Add:
-- configs for TradersExtended (I wrote it manually. Prices now in testing)
-- config for passive powers
+  #### Add:
+  - configs for TradersExtended (I wrote it manually. Prices now in testing)
+  - config for passive powers
 
-#### Update:
-- PlantEasily
-- Seasons
-- Mistlands_Pack_1
+  #### Update:
+  - PlantEasily
+  - Seasons
+  - Mistlands_Pack_1
+</details>
 
 <details>
   <summary>2.7.0</summary>
